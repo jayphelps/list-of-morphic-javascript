@@ -1,11 +1,11 @@
 # list-of-morphic-javascript
 
 
-Type | Definition
+Type | Definition | Origin
 ------------------------| -------------
-Isomorphic JavaScript | The same code can be run on the server and in the browser.
-Endomorphic JavaScript | The server/client code can be run with another server/client runtime.
-Epimorphic JavaScript | The same code can be run in all the browsers. Also known as epic JavaScript.
+Isomorphic JavaScript | The same code can be run on the server and in the browser. | [Charlie Robbins](http://web.archive.org/web/20120108015818/http://blog.nodejitsu.com/scaling-isomorphic-javascript-code)
+Endomorphic JavaScript | The server/client code can be run with another server/client runtime. | [Miikka Koskinen](http://quanttype.net/posts/2015-01-31-types-of-javascript.html)?
+Epimorphic JavaScript | The same code can be run in all the browsers. Also known as epic JavaScript. | [Miikka Koskinen](http://quanttype.net/posts/2015-01-31-types-of-javascript.html)?
 Homeomorphic JavaScript | Isomorphic JavaScript that is continuously deployed.
 Catamorphic JavaScript | Isomorphic JavaScript, where the server code is minified before it is run in the browser.
 Homotopic JavaScript | Isomorphic JavaScript, where the server code is transpiled before it is run the browser.
@@ -19,3 +19,4 @@ Polymorphic JavaScript | Where the code has enough love for many repos.
 Xenomorphic JavaScript | Where the code is written in CoffeeScript.
 Apotheomorphic JavaScript | Where code becomes God-like in its expression and power.
 Anthropomorphic JavaScript | Where you swear your code has human characteristics aka a personality
+
